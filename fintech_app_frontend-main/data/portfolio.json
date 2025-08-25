@@ -1,0 +1,59 @@
+{
+  "totalValue": 125420.5,
+  "totalPnL": 8420.5,
+  "totalPnLPercent": 7.2,
+  "assets": [
+    {
+      "id": "1",
+      "symbol": "AAPL",
+      "name": "Apple Inc.",
+      "type": "stock",
+      "quantity": 50,
+      "avgPrice": 150.25,
+      "currentPrice": 175.8,
+      "value": 8790.0,
+      "pnl": 1277.5,
+      "pnlPercent": 17.0,
+      "change24h": 2.3
+    },
+    {
+      "id": "2",
+      "symbol": "BTC",
+      "name": "Bitcoin",
+      "type": "crypto",
+      "quantity": 2.5,
+      "avgPrice": 35000,
+      "currentPrice": 42500,
+      "value": 106250.0,
+      "pnl": 18750.0,
+      "pnlPercent": 21.4,
+      "change24h": -1.2
+    },
+    {
+      "id": "3",
+      "symbol": "TSLA",
+      "name": "Tesla Inc.",
+      "type": "stock",
+      "quantity": 25,
+      "avgPrice": 220.0,
+      "currentPrice": 195.4,
+      "value": 4885.0,
+      "pnl": -615.0,
+      "pnlPercent": -11.2,
+      "change24h": -3.1
+    },
+    {
+      "id": "4",
+      "symbol": "ETH",
+      "name": "Ethereum",
+      "type": "crypto",
+      "quantity": 15,
+      "avgPrice": 2200,
+      "currentPrice": 2350,
+      "value": 35250.0,
+      "pnl": 2250.0,
+      "pnlPercent": 6.8,
+      "change24h": 4.2
+    }
+  ]
+}

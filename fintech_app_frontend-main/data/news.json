@@ -1,0 +1,28 @@
+{
+  "news": [
+    {
+      "id": "1",
+      "title": "Bitcoin Reaches New Monthly High Amid Institutional Interest",
+      "summary": "Bitcoin surged to $42,500 as major institutions continue to show interest in cryptocurrency investments.",
+      "source": "CryptoNews",
+      "publishedAt": "2024-01-15T08:00:00Z",
+      "category": "crypto"
+    },
+    {
+      "id": "2",
+      "title": "NVIDIA Reports Strong Q4 Earnings, Stock Jumps 5%",
+      "summary": "NVIDIA's AI chip demand continues to drive exceptional growth in the fourth quarter.",
+      "source": "TechDaily",
+      "publishedAt": "2024-01-14T16:30:00Z",
+      "category": "stocks"
+    },
+    {
+      "id": "3",
+      "title": "Federal Reserve Hints at Potential Rate Cuts in 2024",
+      "summary": "Fed officials suggest monetary policy may become more accommodative if inflation continues to decline.",
+      "source": "Financial Times",
+      "publishedAt": "2024-01-13T12:00:00Z",
+      "category": "economy"
+    }
+  ]
+}
